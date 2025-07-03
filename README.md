@@ -1,4 +1,4 @@
-# onenote_mmouse_pan
+# Onenote-Middle-Mouse-Pan
 A tool to allow for midle mouse pan in Microsoft OneNote - Such as common CAD/canvas programs
 
 I am an avid onenote user, but LOATHE the navigation of infinite pages with the middle mouse button. It is archaic, and I am over it.

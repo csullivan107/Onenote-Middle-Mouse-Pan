@@ -22,6 +22,8 @@ To do this download the **onenote_pan.ahk** script form the repo. Go to [AutoHot
 ## Use the .exe file
 Download and run the .exe file from this repo. bonus points if you make it a starup program so you never ahve to think about it again... unless you use another computer and curse OneNote's default scroll options yet again.
 
+Feel free to use the .ico file for fun to make it all smeem more official :)
+
 ### Chat GPT Startup Instructions (yet to verify)
 
 Press Win + R to open the Run dialog.
